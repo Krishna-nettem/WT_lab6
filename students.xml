@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <name>Krishna</name>
+        <rollno>12</rollno>
+        <department>Computer Science</department>
+        <year>2022</year>
+        <university>JNU</university>
+    </student>
+    <student>
+        <name>Krupakar</name>
+        <rollno>29</rollno>
+        <department>ECE</department>
+        <year>2022</year>
+        <university>JNU</university>
+    </student>
+    <student>
+        <name>RANA</name>
+        <rollno>52</rollno>
+        <department>CSE</department>
+        <year>2022</year>
+        <university>JNU</university>
+    </student>
+</students>
